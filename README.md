@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hey There! 👋
+Welcome to my GitHub! Here, you'll find all the amazing projects I've made and maintained.
+
+I'm currently working on building my skillset with Python, AI/ML, and Networking. 
 
 <!--
 **DylanPant/DylanPant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
