@@ -1,7 +1,7 @@
 ## Hey There! 👋
-Welcome to my GitHub! Here, you'll find all the amazing projects I've made and maintained.
+Welcome to my GitHub! Here, you'll find all the amazing projects I've made and maintained. Over the years, I've worked with Java, React, Python, and a bit of C# here and there. AI/ML has been a fun side-topic I've been exploring while studying cybersecurity.
 
-I'm currently working on building my skillset with Python, AI/ML, and Networking. 
+I'm currently working on building my skillset with Golang, SQL, and creating multi-model agents. Let's see how this year goes!
 
 <!--
 **DylanPant/DylanPant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
