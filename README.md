@@ -1,5 +1,5 @@
 ## Hey There! 👋
-Welcome to my GitHub! Here, you'll find all the amazing projects I've made and maintained. Over the years, I've worked with Java, React, Python, and a bit of C# here and there. AI/ML has been a fun side-topic I've been exploring while studying cybersecurity.
+Welcome to my GitHub! Here, you'll find some of the amazing projects I've made and maintained. Over the years, I've worked with Java, React, Python, and a bit of C# here and there. AI/ML has been a fun side-topic I've been exploring while studying cybersecurity.
 
 I'm currently working on building my skillset with Golang, SQL, and creating multi-model agents. Let's see how this year goes!
 
